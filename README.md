@@ -29,4 +29,7 @@ https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-data/
 (프로젝트에서 가장 중요한 부분이며 여기서 사용할 분야는 Recommand System 을 이용한다)
 
 
+
+![카카오](https://user-images.githubusercontent.com/94780831/188931438-c2c8fa03-75f6-42f2-981d-f8e87dbe0a96.PNG)
+
 카카오 공채까지 남은시간 D-70일로 시작
